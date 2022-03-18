@@ -1,0 +1,71 @@
+{
+  "connect.name": "test",
+  "fields": [
+    {
+      "default": null,
+      "name": "sen1",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "sen2",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth1",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth2",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth3",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth4",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth5",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth6",
+      "type": [
+        "null",
+        "string"
+      ]
+    },    {
+      "default": null,
+      "name": "groundtruth7",
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  ],
+  "name": "test",
+  "type": "record"
+}
